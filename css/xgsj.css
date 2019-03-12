@@ -1,0 +1,362 @@
+body{
+	background: gainsboro;
+}
+
+.lmm_header_01{
+	width: 100%;
+	background: #333;
+	height: 30px;
+	position: relative;
+	font-size: 10px;
+}
+.lmm_header_02{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.lmm_header_03{
+	float: left;
+	line-height: 30px;
+	color: #b0b0b0;
+	display: inline-block;
+}
+.lmm_header_03 a{
+	margin-right: 6px;
+}
+.lmm_header_04{
+	width: 100px;
+	height: 30px;
+	float: right;
+	background: #424242;
+}
+.lmm_header_04 img{
+	position: relative;
+	top: 7px;
+	left: 15px;
+}
+#lmm_a{
+	font-size: 10px;
+	color: #b0b0b0;
+	position: relative;
+	left: 20px;
+	top: 4px;
+}
+.lmm_header_05{
+	float: right;
+	line-height: 30px;
+	color: #b0b0b0;
+	display: inline-block;
+}
+.lmm_header_05 a{
+	margin-right: 6px;
+}
+.lmm_nav_01{
+	height: 100px;
+	background: #fff;
+}
+.lmm_nav_02{
+	width: 1226px;
+	height: 100px;
+	margin: 0px auto;
+}
+.lmm_nav_03{
+	float: left;
+	width: 62px;
+	margin-top: 25px;
+}
+.lmm_nav_list{
+	position: relative;
+    float: left;
+    width: 600px;
+    height: 50px;
+    padding: 12px 0 0 30px;
+    list-style-type: none;
+    font-size: 13px;
+    top: 25px;
+    left: 150px;
+}
+.lmm_nav_list li{
+	float: left;
+	margin-left: 20px;
+	font-size: ;
+}
+.lmm_nav_05{
+	float: right;
+	width: 296px;
+}
+.lmm_form{
+	position: relative;
+	width: 296px;
+	height: 50px;
+}
+.lmm_search{
+	position: absolute;
+	top: 20px;
+	width: 223px;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	font-size: 12px;
+	line-height: 48px;
+}
+.lmm_submit{
+	position: absolute;
+	width: 52px;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	background-color: white;
+	top: 20px;
+	left: 223px;
+}
+.lmm_form img{
+	width: 50px;
+	position: absolute;
+	top: 20px;
+	left: 223px;
+}
+.lmm_form_a{
+	position: absolute;
+	top: 33px;
+	left: 130px;
+}
+.lmm_form_a a{
+	font-size: 10px;
+	background: #eee;
+}
+.breadcrumbs {
+	height: 40px;
+	font-size: 12px;
+	line-height: 40px;
+	background: #f5f5f5;
+	color: #616161;
+}
+.breacrumbs a{
+	color: #757575;
+}
+a{
+	color: #757575;
+	text-decoration: none;
+}
+.compare-warp .compare-banner .banner-title{
+	margin-top: 80px;
+	font-size: 36px;
+	color: #616161;
+	font-weight:normal ;
+	line-height: 36px;
+}
+.compare-warp .compare-banner .banner-infor{
+	margin-top: 20px;
+	font-size: 18px;
+	line-height: 20px;
+}
+.compare-warp h1{
+	margin: 0;
+	display: block;
+	margin: 0.67em;
+}
+h1{
+	color: #757575;
+	font-size: 2em;
+	margin: 0.67;
+	margin-left: 100px;
+}
+.compare-warp .compare-banner{
+	height: 500px;
+	text-align: center;
+	background: url(../img/tow.jpg) no-repeat center center;
+    overflow: hidden;
+}
+.compare-content{
+	width: 1300px;
+	height: 5849px;
+}
+.compare-content .content-title .top ul li{
+	list-style: none;
+	float: left;
+	
+	text-align: center;
+	width: 25%;
+	}
+.compare-content .content-title .top {
+	width: 1200px;
+	height: 150px;
+}
+.compare-content .content-title .top .title{
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: bold;
+}
+.compare-content .content-title .top .info{
+	font-size: 17px;
+	margin-top: -20px;
+	
+}
+.compare-content .content-title .top li .arrow span{
+	display: block;
+	width: 10px;
+	border-top: 2px solid #f56600;
+	border-left: 2px solid #56600;
+	transform: rotate(-137deg);
+}
+.compare-content .content-title{
+	position: relative;
+	top: -80px;
+	width: 1000px;
+	margin: 0 auto;
+	background: #fff;
+	text-align: center;
+}
+.content-body{
+	width: 1200px;
+	height: 400px;
+}
+.content-body .section-color ul li{
+	float: left;
+	list-style: none;
+	width: 350px;
+	height: 350px;
+	margin-top: -100px;
+}
+.content-body .section-color ul li button{
+	margin: 0  0 40px 200px;
+}
+
+.slider-nav ul li{
+	list-style: none;
+}
+
+
+.specs-per{
+	width: 1100px;
+	height:400px;
+	margin-left: 100px;
+	background:white;
+	
+}
+.detail .per-specs{
+	margin-right: 320px ;
+	
+	}
+	
+.specs-per .title{
+	color: #000;
+	font-size:30px ;
+	line-height: 70px;
+	font-weight: normal;
+	border-bottom: 1px solid #e8e8e8;
+	margin-left: 30px;
+	
+}
+.specs-per  .detail{
+	margin-left: 30px;
+}
+
+.compare-warp .content-body .specs-per table tr{
+	width: 100%;
+	float: left;
+	
+}
+.compare-warp .content-body .specs-per table tr td{
+	width:347px ;
+	height: 46px;
+	
+}
+.compare-warp .content-body .specs-per .per-specs{
+	position: relative;
+	font-size: 20px;
+	line-height: 46px;
+	opacity: .6;
+	margin-left: 20px;
+}
+table{
+	border-spacing: 0;
+}
+.compare-warp .content-body .per-specs .main{
+	opacity: .84;
+	font-size: 20px;
+}
+/*
+.compare-warp .content-body .section-color .color-slider .slider-content{
+	position: relative;
+	width: 100%;
+	height: 380px;
+}
+.compare-warp .content-body .section-color .color-slider .slider-content .img img{
+	display: block;
+	width: 100%;
+	height: 100%;
+	float: left;
+	
+}
+.compare-warp .content-body .section-color .color-slider .slider-content{
+	position: absolute;
+	left: 50%;
+	top: 10px;
+	width: 350px;
+	height: 350px;
+	margin: 0 0 0 -175px;
+	transition: opacity 0.5s ease-out;
+}
+/*body{
+	font: 14px;
+	color: #333;
+	background-color: #fff;
+	min-width: 1226px;
+	height: 36px;
+}
+.compare-warp .centent-title{
+	position: relative;
+   height: 150px;
+    text-align: center;
+	width: 1200px;
+	margin: 0 auto;
+	color: #636363;
+	background: #fff;
+	z-index: 8;
+}
+.compare-warp  .content-title .top li .title{
+	font-size: 30px;
+	width: 200px;
+	margin: 0 auto;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	
+}
+.compare-warp  .content-title .top li .infor {
+	font-size: 16px;
+
+}
+.compare-warp .content-title .top li{
+	float: left;
+	position: relative;
+	width: 33.33%;
+	padding: 48px 0 0 0;
+	line-height: 30px;
+	cursor: pointer;
+}
+.compare-warp li{
+	list-style: none;
+}
+li{
+	display: list-item;
+	text-align:-webkit-match-parent;
+}
+.compare-warp .content-title .bottom{
+	position: absolute;
+	top: 150px;
+	left: 0;
+	background: #fff;
+	border-top:1px solid #e5e5e5 ;
+}
+.compare-warp .content-title .top li .arrow .active span{
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.compare-warp .content-title .top li .arrow span{
+	display: block;
+	width: 10px;
+	border-top:2px solid #56600 ;
+	border-left:2px solid #56600 ;
+	
+}

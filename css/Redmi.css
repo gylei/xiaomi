@@ -1,0 +1,232 @@
+html{
+				overflow-x: hidden;
+			}
+			.yangshuo_header01{
+				width:100%;
+				/*right: 450px;*/
+				position: relative;
+			}
+			/*.yangshuo_header01 img{
+				width:1226px;
+				
+			}*/
+			.yangshuo_header02{
+				/*width: px;*/
+				height: 855PX;
+			}
+			.yangshuo_header02 img{
+				position: absolute;
+    			top: 0;
+    			left: 50%;
+    			width: 2560px;
+    			margin-left: -1280px;			}
+    			.yangshuo_header03{
+    				position: relative;
+    				width: 1226px;
+    				margin: 0 auto;
+    				top: 760px;
+    			}
+    			.yangshuo_header04 img{
+    				    width: 1300px;
+                        height: 295px;
+                        left: 0px;
+                         top: 0px;
+    				
+    			}
+    			.yangshuo_header04{
+    		position: relative;
+    				top: 160px;
+    				left: 120px;
+    			}
+    			.yangshuo_header05 {
+    				height: 250px;
+    			position: relative;
+    				top: 160px;
+    				}
+    				.yangshuo_header05 img
+    				{
+    					width: 100%;
+    					
+    					
+    				}
+    				.yangshuo_header06{
+    					
+    					/*position: relative;
+    				   top: 160px;
+    				   left: 100px;*/
+    				}
+    				.yangshuo_header06 img{
+    					
+    					width: 500px;
+    				}
+    				.yangshuo_header06{
+    				/*position: relative;
+    				top: 30px;
+    				left: 250px;*/
+    				line-height: 10px;
+    				
+    				}
+					.z1{
+						font-weight: 400;
+		             	font-size: 24px;
+		              	display: block;
+		            	color: #242424;
+		            	position: relative;
+		           		bottom:8px ;
+		            	left: 180px;
+					}
+    				.z2{
+    					 font-size: 15px;
+                          margin-top: 25px;
+                           position: relative;
+                           bottom: 5px;
+                    left: 180px;
+    				}
+    				.z3{
+    					
+                             left: 20px;
+    					color: red;
+    					font-size: 22px;
+    					 position: relative;
+    					 bottom: 8px;
+                    left: 200px;
+    				}
+    				.z4{
+					    background: #fd5452;
+                        border-radius: 2px;
+                        width: 160px;
+                        height: 44px;
+                        line-height: 44px;
+                        text-align: center;
+                        display: block;
+                        text-decoration: none;
+                        color: #fff;
+                        font-size: 18px;
+                       
+                        right: 15px;
+                        position: absolute;
+                		left: 160px;
+    				}
+    				.yangshuo_header07 img{
+    					width: 498px;
+    					  
+    					
+    					
+    				}
+    			.yangshuo_header07{
+    				float: right;
+    				position: relative;
+    					  bottom: 454px;
+    					  right: 505px;
+    			}
+    			.z5{
+    				  font-weight: 400;
+                      font-size: 24px;
+                      display: block;
+                      color: #242424; 
+                      position: relative;
+                      bottom: 13px;
+                      left: 110px;
+                    }
+                    
+                    .z6{
+                    	  font-size: 15px;
+                          margin-top: 25px;
+                          position: relative;
+                          bottom: 25px;
+                          left: 130px;
+                    	
+                    }
+                    .z7{
+                    	position: relative;
+                        left: 20px;
+    					color: red;
+    					font-size: 23px;
+    					position: relative;
+    					bottom: 40px;
+                        left: 170px;
+                    	
+                    }
+                    .z8{
+                    	
+    					    background: #fd5452;
+                            border-radius: 2px;
+                            width: 160px;
+                            height: 44px;
+                            line-height: 44px;
+                            text-align: center;
+                            display: block;
+                            text-decoration: none;
+                            color: #fff;
+                            font-size: 18px;
+                            position: relative;
+                            right: 15px;
+                            position: relative;
+                            bottom: 56px;
+                            left: 145px;
+                    	
+                    }
+                    .beijingse{
+                    	height: 540px;
+                    	background: paleturquoise;
+                    }
+                    .beijingse .list{
+                    	width: 300px;
+                    	height: 200px;
+                    	background-color: red;
+                    	float: left;
+                    	margin:10px;
+                    }
+    				
+    	           .yangshuo_header08 img{
+    	           	    width: 498px;
+    	           	
+    	           }
+    	           .yangshuo_header08{
+    	           	    float: right;
+    	             	position: relative;
+    			    	bottom: 454px;
+    				    left: 491px;
+    				    line-height: 10px;
+    	           }
+    	           .z11{
+    	           	    font-weight: 400;
+                        font-size: 24px;
+                        display: block;
+                        color: #242424;
+                        position: relative;
+                        bottom: 2px;
+                        left: 165px;
+                         }
+                         .z9{
+                         	    font-size: 15px;
+                                margin-top: 25px;
+                                position: relative;
+                                bottom: 5px;
+                                left: 180px;
+                         }
+                         .z10{
+						    left: 20px;
+						    color: red;
+						    font-size: 22px;
+						    position: relative;
+						    bottom: 8px;
+						    left: 200px;
+                         }
+                         
+                         .z12{
+                         	background: #fd5452;
+						    border-radius: 2px;
+						    width: 160px;
+						    height: 44px;
+						    line-height: 44px;
+						    text-align: center;
+						    display: block;
+						    text-decoration: none;
+						    color: #fff;
+						    font-size: 18px;
+						    position: relative;
+						    right: 15px;
+						    position: absolute;
+						    left: 160px;
+                         }

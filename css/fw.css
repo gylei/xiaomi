@@ -1,0 +1,301 @@
+*{
+	list-style: none;
+}
+.gyl_header_01{
+	width: 100%;
+	background: #333;
+	height: 30px;
+	position: relative;
+	font-size: 10px;
+}
+.gyl_header_02{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.gyl_header_03{
+	float: left;
+	line-height: 30px;
+	color: #b0b0b0;
+	display: inline-block;
+}
+.gyl_header_03 a{
+	margin-right: 6px;
+}
+.gyl_header_04{
+	width: 100px;
+	height: 30px;
+	float: right;
+	background: #424242;
+}
+.gyl_header_04 img{
+	position: relative;
+	top: 7px;
+	left: 15px;
+}
+#gyl_a{
+	font-size: 10px;
+	color: #b0b0b0;
+	position: relative;
+	left: 20px;
+	top: 4px;
+}
+.gyl_header_05{
+	float: right;
+	line-height: 30px;
+	color: #b0b0b0;
+	display: inline-block;
+}
+.gyl_header_05 a{
+	margin-right: 6px;
+}
+.gyl_nav_01{
+	height: 100px;
+}
+.gyl_nav_02{
+	width: 1226px;
+	height: 100px;
+	margin: 0px auto;
+}
+.gyl_nav_03{
+	float: left;
+	width: 62px;
+	margin-top: 25px;
+}
+.gyl_nav_list{
+	position: relative;
+    float: left;
+    width: 600px;
+    height: 50px;
+    padding: 12px 0 0 30px;
+    list-style-type: none;
+    font-size: 13px;
+    top: 25px;
+    left: 150px;
+}
+.gyl_nav_list li{
+	float: left;
+	margin-left: 20px;
+}
+.gyl_nav_05{
+	float: right;
+	width: 296px;
+}
+.gyl_form{
+	position: relative;
+	width: 296px;
+	height: 50px;
+}
+.gyl_search{
+	position: absolute;
+	top: 20px;
+	width: 223px;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	font-size: 12px;
+	line-height: 48px;
+}
+.gyl_submit{
+	position: absolute;
+	width: 52px;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	background-color: white;
+	top: 20px;
+	left: 223px;
+}
+.gyl_form img{
+	width: 50px;
+	position: absolute;
+	top: 20px;
+	left: 223px;
+}
+.gyl_form_a{
+	position: absolute;
+	top: 33px;
+	left: 130px;
+}
+.gyl_form_a a{
+	font-size: 10px;
+	background: #eee;
+}
+a{
+	text-decoration: none;
+}
+.gyl{
+	background-color:  #f5f5f5;
+	}
+.gyl_goods{
+	background-color: #f5f5f5;
+}
+ .gyl_box{
+    line-height: 40px;
+    width: 1226px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40px;
+}
+.gyl_box  li{
+	float: left;
+	font-size: 12px;
+	}
+.gyl .gyl_container .gyl_box .xian{
+	margin: 0 5px;
+}
+.gyl_container .img{
+	width: 1226px;
+	height: 250px;
+	margin: 0 auto;
+}
+.gyl_container a{
+	color: #757575;
+}    
+.gyl_fuwu{
+	margin: 0 auto;
+	height: 700px;
+	background-color: #f5f5f5;
+}
+ h2{
+    display: block;
+    font-size: 30px;
+    margin-top: 30px;
+    color: #666;
+    font-weight: normal;
+    text-align: center;
+    line-height: 106px;
+}
+.gyl_wx{
+	width: 1226px;
+	margin: 0 auto;
+}
+.gyl_wx ul{
+	height: 600px;
+}
+.gyl_wx ul li{
+	float: left;
+    height: 277px;
+    text-align: center;
+    width: 295px;
+    margin: 0 14px 18px 0;
+    background-color: #fff;
+    background-position: -13px -15px;
+}
+.gyl_wx ul li a h3{
+	color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+ span{
+	display: block;
+    color: #757575;
+    font-size: 14px;
+    line-height: 14px;
+}
+.gyl_fuwu .gyl_wx ul li a img{
+	margin-top: 76px;
+    width: 66px;
+    height: 66px;
+}
+.gyl_goods ul{
+	margin: 0 auto;
+}
+.gyl_goods ul li{
+	text-align: center;
+    list-style: none;
+    height: 277px;
+    float: left;
+    _display: inline;
+    width: 296px;
+    margin: 0 14px 18px 0;
+    background-color: #fff;
+}
+.gyl_clearfix {
+	width: 1240px;
+	height: 610px;
+}
+
+.gyl_clearfix  ul li{
+	text-align: center;
+    list-style: none;
+    height: 287px;
+    float: left;
+    _display: inline;
+    width: 296px;
+    margin: 0 14px 18px 0;
+    background-color: #fff;
+}
+.gyl .gyl_goods  .gyl_clearfix li div{
+	margin: 45px auto 13px;
+}
+/*鼠标悬浮字体变色*/
+.gyl_fuwu .gyl_wx ul .gyl_up:hover a h3,.gyl_fuwu .gyl_wx ul .gyl_up:hover a span{
+	color: orange;
+}
+/*鼠标悬浮字体变色*/
+.gyl_goods .gyl_cp ul .gyl_op:hover a span{
+	color: orange;
+}
+.gyl_webfont .gyl_ap .gyl_wrap dl{
+	float: left;
+	width: 100px;
+}
+.gyl_webfont .gyl_ap .gyl_wrap dl dd{
+	margin-left: 0px;
+}
+.gyl_webfont .gyl_ap .gyl_right{
+	float: right;
+    width: 612px;
+    height: 100%;
+    text-align: center;
+}
+.gyl_webfont .gyl_ap .gyl_right p{
+	margin: 64px auto 15px;
+	font-size: 20px;
+}
+.gyl_webfont .gyl_ap .gyl_right span{
+	font-size: 16px;
+}
+.gyl_webfont .gyl_ap .gyl_right .gyl_btn{
+	margin: 15px auto;
+	font-size: 16px;
+	line-height: 100px;
+}
+.gyl_webfont .gyl_ap{
+	background-color: #fff;
+	height: 360px;
+}
+.gyl_webfont .gyl_ap .gyl_right .gyl_wrap{
+	width: 500px;
+	height: 100px;
+	margin: 24px auto 10px;
+	opacity: 0.6;
+}
+.gyl_webfont .gyl_ap{
+	width: 1250px;
+	margin: 0 auto;
+}
+.gyl_webfont .gyl_ap .gyl_left{
+	float: left;
+    width: 614px;
+    height: 100%;
+}
+.gyl_webfont .gyl_ap .gyl_left img{
+	height: 360px;
+	width: 614px;
+}
+#gyl_a1{
+	text-decoration: none;
+	color: #b0b0b0;
+}
+#gyl_a2{
+	text-decoration: none;
+	color: #333;
+}
+.gyl_op:hover{
+				/*变形中的移动*/
+				transform:translateY(-10px);
+				box-shadow: 5px 5px 10px #f5f5f5,-5px 5px 10px #f5f5f5,5px -5px 10px #f5f5f5,-5px -5px 10px #f5f5f5;
+				
+				/*渐变：要改变的属性 在多长时间内改变 改变的方式*/
+				transition: all 300ms linear;
+			}

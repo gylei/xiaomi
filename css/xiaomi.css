@@ -1,0 +1,506 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.ZQ_header_01{
+	width: 100%;
+	background: #333;
+	height: 30px;
+	position: relative;
+	font-size: 10px;
+}
+.ZQ_header_02{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.ZQ_header_03{
+	float: left;
+	line-height: 30px;
+	color: #b0b0b0;
+	display: inline-block;
+}
+.ZQ_header_03 a{
+	margin-right: 6px;
+}
+.ZQ_header_04{
+	width: 100px;
+	height: 30px;
+	float: right;
+	background: #424242;
+}
+.ZQ_header_04 img{
+	position: relative;
+	top: 7px;
+	left: 15px;
+}
+#ZQ_a{
+	font-size: 10px;
+	color: #b0b0b0;
+	position: relative;
+	left: 20px;
+	top: 4px;
+}
+.ZQ_header_05{
+	float: right;
+	line-height: 30px;
+	color: #b0b0b0;
+	display: inline-block;
+}
+.ZQ_header_05 a{
+	margin-right: 6px;
+}
+.ZQ_nav_01{
+	height: 100px;
+}
+.ZQ_nav_02{
+	width: 1226px;
+	height: 100px;
+	margin: 0px auto;
+}
+.ZQ_nav_03{
+	float: left;
+	width: 62px;
+	margin-top: 25px;
+}
+.ZQ_nav_list{
+	position: relative;
+    float: left;
+    width: 600px;
+    height: 50px;
+    padding: 12px 0 0 30px;
+    list-style-type: none;
+    font-size: 13px;
+    top: 25px;
+    left: 150px;
+}
+.ZQ_nav_list li{
+	float: left;
+	margin-left: 20px;
+}
+.ZQ_nav_05{
+	float: right;
+	width: 296px;
+}
+.ZQ_form{
+	position: relative;
+	width: 296px;
+	height: 50px;
+}
+.ZQ_search{
+	position: absolute;
+	top: 20px;
+	width: 223px;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	font-size: 12px;
+	line-height: 48px;
+}
+.ZQ_submit{
+	position: absolute;
+	width: 52px;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	background-color: white;
+	top: 20px;
+	left: 223px;
+}
+.ZQ_form img{
+	width: 50px;
+	position: absolute;
+	top: 20px;
+	left: 223px;
+}
+.ZQ_form_a{
+	position: absolute;
+	top: 33px;
+	left: 130px;
+}
+.ZQ_form_a a{
+	font-size: 10px;
+	background: #eee;
+}
+.ZQ_xiaomi_list{
+	width: 1226px;
+	height: 460px;
+}
+.ZQ_xiaomi_list01{
+	width: 920px;
+	height: 420px;
+	margin: 0px auto;
+}
+.ZQ_xiaomi_list02{
+	width: 300px;
+	height: 420px;
+}
+.ZQ_xiaomi_list03{
+	float: left;
+	width: 260px;
+	height: 460px;
+	background: rgba(0,0,0,0.6);
+	line-height: 36PX;
+	color: #fff;
+}
+.ZQ_xiaomi_list03 li{
+	margin-top: 8px;
+	margin-left: 30px;
+	font-size: 12px;
+}
+.ZQ_xiaomi_list03 li a{
+	margin-left: 150px;
+}
+.ZQ_xiaomi_img img{
+	position: absolute;
+	top:130px;
+	width: 950px;
+	height: 460px;
+}
+.ZQ_xiaomi_img01{
+	width: 1226px;
+	margin: 0px auto;
+	margin-top: 20px;
+}
+.ZQ_xiaomi_img01 li{
+	float: left;
+	margin-left: 10px;
+}
+.ZQ_xiaomi_img03 img{
+	width: 316px;
+	height: 170px;
+}
+.ZQ_xiaomi_img04{
+	width: 1226px;
+	height: 350px;
+	margin: 0px auto;
+}
+.ZQ_xiaomi_img04 img{
+	width: 1226px;
+	height: 120px;
+	margin-top: 15px;
+}
+.ZQ_xiaomi_bottom{
+	width: 100%;
+	height: 800px;
+	background: #f5f5f5;
+}
+.ZQ_xiaomi_bottom01{
+	width: 1226px;
+	height: 58px;
+	margin: 0px auto;
+
+}
+.ZQ_xiaomi_bottom02{
+	float: left;
+	position: relative;
+	left: 180px;
+}
+.ZQ_xiaomi_bottom01 h2{
+	margin: 0;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 58px;
+    color: #333;
+    position: relative;
+    right: 180px;
+}
+.ZQ_xiaomi_bottom03{
+	float: right;
+}
+.ZQ_xiaomi_bottom03 a{
+	font-size: 16px;
+    line-height: 58px;
+    color: #424242;
+}
+#ZQ_b{
+	color: white;
+	background: gray;
+	border-radius: 100%;
+}
+.ZQ_shouji01{
+	width: 1226px;
+	height: 630px;
+}
+.ZQ_xiaomi_shouji02{
+	width: 248px;
+	height: 614px;
+	position: relative;
+	left: 150px;
+	list-style-type: none;
+}
+.ZQ_xiaomi_shouji03{
+	float: left;
+	width: 234px;
+	height: 614px;
+	background: #fff;
+}
+.ZQ_xiaomi_shouji03 img{
+	width: 234px;
+	height: 678px;
+	border: 0;
+}
+.ZQ_xiaomi_shouji04{
+	width: 978px;
+	height: 628px;
+	float: right;
+	position: relative;
+	left: 140px;
+	bottom: 613px;
+}
+.ZQ_xiaomi_shouji05{
+	width: 992px;
+	height: 614px;
+}
+.ZQ_xiaomi_shouji05 li{
+	height: 290px;
+    padding: 20px 0;
+    position: relative;
+    z-index: 1;
+    float: left;
+    width: 234px;
+    margin-left: 14px;
+    margin-bottom: 14px;
+    background: #fff;
+    transition: all .2s linear;
+}
+.ZQ_xiaomi_shouji05 h3{
+	font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+.desc{
+	margin: 0 10px 10px;
+    height: 15px;
+    font-size: 12px;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #b0b0b0;
+}
+.price{
+	text-align: center;
+    color: #ff6700;
+    margin: 0 10px 14px;
+    font-size: 12px;
+}
+.del{
+	color: #b0b0b0;
+	text-decoration: line-through;
+}
+.xinpin{
+	background-color: #83c44e;
+	color: white;
+	position: relative;
+	font-size: 13px;
+	bottom: 318px;
+	left: 90px;
+	width: 64px;
+	height: 20px;
+	text-align: center;
+}
+.xiang{
+	background-color: #e53935;
+	color: white;
+	position: relative;
+	font-size: 13px;
+	bottom: 318px;
+	left: 90px;
+	width: 64px;
+	height: 20px;
+	text-align: center;
+}
+.ZQ_xiaomi_DB{
+	width: 1226px;
+	height: 272px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ZQ_xiaomi_DB01{
+	width: 1226px;
+	height: 80px;
+	border-bottom: 1px solid #e0e0e0;
+}
+.ZQ_xiaomi_DB02{
+	width: 1226px;
+	height: 25px;
+}
+.ZQ_xiaomi_DB02 li{
+	float: left;
+    width: 19.8%;
+    height: 25px;
+    color: #616161;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 480px;
+}
+.ZQ_xiaomi_DB02 span{
+	position: relative;
+	bottom: 12px;
+}
+.ZQ_xiaomi_DB03{
+	width: 1226px;
+	height: 192px;
+}
+.ZQ_xiaomi_DB03 ul{
+	float: left;
+	margin-right: 20px;
+	width: 160px;
+    height: 112px;
+	position: relative;
+	bottom: 410px;
+}
+.size2{
+	margin: 10px 0 0;
+    font-size: 12px;
+    color: #757575;
+}
+.size{
+	margin: -1px 0 26px;
+    font-size: 14px;
+    line-height: 1.25;
+    color: #424242;
+}
+.ZQ_xiaomi_DB04{
+	float: right;
+    width: 251px;
+    height: 112px;
+    border-left: 1px solid #e0e0e0;
+    text-align: center;
+    color: #616161;
+    position: relative;
+    bottom: 500px;
+    left: 20px;
+}
+.phone{
+	margin: 0 0 5px;
+    font-size: 22px;
+    line-height: 1;
+    color: #ff6700;
+}
+.phone2{
+	margin: 0 0 16px;
+    font-size: 12px;
+}
+.kefu{
+	border-color: #ff6700;
+    background: #fff;
+    color: #ff6700;
+    width: 118px;
+    height: 28px;
+    font-size: 12px;
+    line-height: 28px;
+}
+.ZQ_xiaomi_DB05{
+	width: 100%;
+	height: 231px;
+	padding: 30px 0;
+    font-size: 12px;
+    background: #fafafa;
+}
+.ZQ_xiaomi_DB06{
+	width: 1226px;
+	height: 231px;
+}
+.logo{
+	width: 57px;
+	height: 57px;
+	position: relative;
+	left: 150px;
+}
+.ZQ_xiaomi_DB07{
+	color: #b0b0b0;
+    padding-left: 67px;
+}
+.size3{
+	position: relative;
+	left: 200px;
+	bottom: 340px;
+}
+.size3 li{
+	float: left;
+	color: #757575;
+}
+.size4{
+	width: 800px;
+	height: 70px;
+	position: relative;
+	left: 200px;
+	bottom: 338px;
+}
+.size4 li{
+	float: left;
+	color: #b0b0b0;
+}
+.ZQ_xiaomi_DB08{
+	width: 1226px;
+	height: 28px;
+}
+.size5{
+	position: relative;
+	bottom: 320px;
+	right: 470px;
+}
+.size5 li{
+	float: left;
+}
+.ZQ_xiaomi_img05 img{
+	width: 100px;
+}
+.ZQ_xiaomi_DB09{
+	width: 1226px;
+	height: 19px;
+}
+.ZQ_xiaomi_DB09 img{
+	position: relative;
+	bottom: 180px;
+	right: 180px;
+}
+#LJ{
+	text-decoration: none;
+	color: #b0b0b0;
+}
+#LJ:hover{
+	color: orange;
+}
+#LJ1{
+	text-decoration: none;
+	color: #333;
+}
+.ZQ_header_03 a:hover{
+	color: orange;
+}
+#ZQ_a:hover{
+	color: orange;
+}
+.ZQ_header_05 a:hover{
+	color: orange;
+}
+.ZQ_nav_list a:hover{
+	color: orange;
+}
+#LJ1:hover{
+	color: orange;
+}
+.ZQ_xiaomi_list03 li:hover{
+	color: orange;
+}
+.ZQ_xiaomi_shouji05 h3:hover{
+	color: orange;
+}
+#box:hover{
+				/*变形中的移动*/
+				transform:translateY(-10px);
+				box-shadow: 5px 5px 10px #f5f5f5,-5px 5px 10px #f5f5f5,5px -5px 10px #f5f5f5,-5px -5px 10px #f5f5f5;
+				
+				/*渐变：要改变的属性 在多长时间内改变 改变的方式*/
+				transition: all 300ms linear;
+			}
+.ZQ_xiaomi_DB02 li span:hover{
+	color: orange;
+}
+.ZQ_xiaomi_DB03 li:hover{
+	color: orange;
+}
